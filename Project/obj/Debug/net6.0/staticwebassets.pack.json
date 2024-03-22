@@ -1,0 +1,1753 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\all.css",
+      "PackagePath": "staticwebassets\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\lightslider.min.css",
+      "PackagePath": "staticwebassets\\css\\lightslider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\price_rangs.css",
+      "PackagePath": "staticwebassets\\css\\price_rangs.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\style.map",
+      "PackagePath": "staticwebassets\\css\\style.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\abc.jpg",
+      "PackagePath": "staticwebassets\\img\\abc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\about\\about_lft.png",
+      "PackagePath": "staticwebassets\\img\\about\\about_lft.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\about\\about_right.png",
+      "PackagePath": "staticwebassets\\img\\about\\about_right.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\about\\pet_care.png",
+      "PackagePath": "staticwebassets\\img\\about\\pet_care.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\acer.jpg",
+      "PackagePath": "staticwebassets\\img\\acer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\adapt_icon\\1.png",
+      "PackagePath": "staticwebassets\\img\\adapt_icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\adapt_icon\\1.svg",
+      "PackagePath": "staticwebassets\\img\\adapt_icon\\1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\adapt_icon\\2.png",
+      "PackagePath": "staticwebassets\\img\\adapt_icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\adapt_icon\\3.png",
+      "PackagePath": "staticwebassets\\img\\adapt_icon\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\arrivel\\arrivel_1.png",
+      "PackagePath": "staticwebassets\\img\\arrivel\\arrivel_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\arrivel\\arrivel_2.png",
+      "PackagePath": "staticwebassets\\img\\arrivel\\arrivel_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\arrivel\\arrivel_3.png",
+      "PackagePath": "staticwebassets\\img\\arrivel\\arrivel_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\arrivel\\arrivel_4.png",
+      "PackagePath": "staticwebassets\\img\\arrivel\\arrivel_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\arrivel\\arrivel_5.png",
+      "PackagePath": "staticwebassets\\img\\arrivel\\arrivel_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\arrivel\\arrivel_6.png",
+      "PackagePath": "staticwebassets\\img\\arrivel\\arrivel_6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\author\\author_1.png",
+      "PackagePath": "staticwebassets\\img\\author\\author_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\author\\author_2.png",
+      "PackagePath": "staticwebassets\\img\\author\\author_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\author\\author_3.png",
+      "PackagePath": "staticwebassets\\img\\author\\author_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\banner\\banner.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\banner\\contact_bg.png",
+      "PackagePath": "staticwebassets\\img\\banner\\contact_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\banner\\dog.png",
+      "PackagePath": "staticwebassets\\img\\banner\\dog.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\banner\\img.png",
+      "PackagePath": "staticwebassets\\img\\banner\\img.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\blog1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\blog2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\blog3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\c1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\c2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\c3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\card-man.png",
+      "PackagePath": "staticwebassets\\img\\categori\\card-man.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\card-shape.png",
+      "PackagePath": "staticwebassets\\img\\categori\\card-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\card.png",
+      "PackagePath": "staticwebassets\\img\\categori\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\cat1.jpg",
+      "PackagePath": "staticwebassets\\img\\categori\\cat1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\cat2.jpg",
+      "PackagePath": "staticwebassets\\img\\categori\\cat2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\cat3.jpg",
+      "PackagePath": "staticwebassets\\img\\categori\\cat3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\category_1.png",
+      "PackagePath": "staticwebassets\\img\\categori\\category_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\category_10.png",
+      "PackagePath": "staticwebassets\\img\\categori\\category_10.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\category_11.png",
+      "PackagePath": "staticwebassets\\img\\categori\\category_11.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\category_12.png",
+      "PackagePath": "staticwebassets\\img\\categori\\category_12.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\category_2.png",
+      "PackagePath": "staticwebassets\\img\\categori\\category_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\category_3.png",
+      "PackagePath": "staticwebassets\\img\\categori\\category_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\category_4.png",
+      "PackagePath": "staticwebassets\\img\\categori\\category_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\category_5.png",
+      "PackagePath": "staticwebassets\\img\\categori\\category_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\category_6.png",
+      "PackagePath": "staticwebassets\\img\\categori\\category_6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\category_7.png",
+      "PackagePath": "staticwebassets\\img\\categori\\category_7.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\category_8.png",
+      "PackagePath": "staticwebassets\\img\\categori\\category_8.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\category_9.png",
+      "PackagePath": "staticwebassets\\img\\categori\\category_9.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\product1.png",
+      "PackagePath": "staticwebassets\\img\\categori\\product1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\product2.png",
+      "PackagePath": "staticwebassets\\img\\categori\\product2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\product3.png",
+      "PackagePath": "staticwebassets\\img\\categori\\product3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\product4.png",
+      "PackagePath": "staticwebassets\\img\\categori\\product4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\product5.png",
+      "PackagePath": "staticwebassets\\img\\categori\\product5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\categori\\product6.png",
+      "PackagePath": "staticwebassets\\img\\categori\\product6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\collection\\collection1.png",
+      "PackagePath": "staticwebassets\\img\\collection\\collection1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\collection\\collection2.png",
+      "PackagePath": "staticwebassets\\img\\collection\\collection2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\collection\\collection3.png",
+      "PackagePath": "staticwebassets\\img\\collection\\collection3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\collection\\collection4.png",
+      "PackagePath": "staticwebassets\\img\\collection\\collection4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\collection\\collection5.png",
+      "PackagePath": "staticwebassets\\img\\collection\\collection5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\collection\\latest-man.png",
+      "PackagePath": "staticwebassets\\img\\collection\\latest-man.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\collection\\latest-offer.png",
+      "PackagePath": "staticwebassets\\img\\collection\\latest-offer.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\_DS_Store",
+      "PackagePath": "staticwebassets\\img\\elements"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\img\\elements\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\img\\elements\\user2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\gallery\\1.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\gallery\\2.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\gallery\\3.png",
+      "PackagePath": "staticwebassets\\img\\gallery\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\gallery\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\gallery\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\gallery\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\gallery\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\gallery\\gallery5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\hero\\Industries_hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\Industries_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\hero\\about_hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\about_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\hero\\category.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\category.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\hero\\contact_hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\contact_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\hero\\gallery_hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\gallery_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\hero\\h1_hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\h1_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\hero\\hero_man.png",
+      "PackagePath": "staticwebassets\\img\\hero\\hero_man.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\hero\\services_hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\services_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\arrow-left.png",
+      "PackagePath": "staticwebassets\\img\\icon\\arrow-left.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\arrow-right.png",
+      "PackagePath": "staticwebassets\\img\\icon\\arrow-right.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\color_star.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\color_star.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\feature_icon_1.png",
+      "PackagePath": "staticwebassets\\img\\icon\\feature_icon_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\feature_icon_1.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\feature_icon_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\feature_icon_2.png",
+      "PackagePath": "staticwebassets\\img\\icon\\feature_icon_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\feature_icon_2.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\feature_icon_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\feature_icon_3.png",
+      "PackagePath": "staticwebassets\\img\\icon\\feature_icon_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\feature_icon_3.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\feature_icon_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\feature_icon_4.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\feature_icon_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\header_icon.png",
+      "PackagePath": "staticwebassets\\img\\icon\\header_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\icon_1.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\icon_2.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\icon_3.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\icon_4.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\left-white.png",
+      "PackagePath": "staticwebassets\\img\\icon\\left-white.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\left.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\play.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\play.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\quate.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\quate.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\right-arrow.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\right-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\right-white.png",
+      "PackagePath": "staticwebassets\\img\\icon\\right-white.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\right.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\icon\\star.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\star.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\logo\\date-picker-icon.png",
+      "PackagePath": "staticwebassets\\img\\logo\\date-picker-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\logo\\form-iocn.jpg",
+      "PackagePath": "staticwebassets\\img\\logo\\form-iocn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\logo\\logo2_footer.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo2_footer.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\logo\\select-items-icon.jpg",
+      "PackagePath": "staticwebassets\\img\\logo\\select-items-icon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\logo\\testimonial.png",
+      "PackagePath": "staticwebassets\\img\\logo\\testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\offers\\1.png",
+      "PackagePath": "staticwebassets\\img\\offers\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\offers\\2.png",
+      "PackagePath": "staticwebassets\\img\\offers\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\offers\\3.png",
+      "PackagePath": "staticwebassets\\img\\offers\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\our_blog\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\our_blog\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\prising\\1.png",
+      "PackagePath": "staticwebassets\\img\\prising\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\prising\\10.png",
+      "PackagePath": "staticwebassets\\img\\prising\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\prising\\2.png",
+      "PackagePath": "staticwebassets\\img\\prising\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\prising\\3.png",
+      "PackagePath": "staticwebassets\\img\\prising\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\prising\\4.png",
+      "PackagePath": "staticwebassets\\img\\prising\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\prising\\5.png",
+      "PackagePath": "staticwebassets\\img\\prising\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\prising\\6.png",
+      "PackagePath": "staticwebassets\\img\\prising\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\prising\\7.png",
+      "PackagePath": "staticwebassets\\img\\prising\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\prising\\8.png",
+      "PackagePath": "staticwebassets\\img\\prising\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\prising\\9.png",
+      "PackagePath": "staticwebassets\\img\\prising\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product\\product_list_1.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_list_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product\\product_list_10.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_list_10.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product\\product_list_2.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_list_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product\\product_list_3.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_list_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product\\product_list_4.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_list_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product\\product_list_5.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_list_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product\\product_list_6.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_list_6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product\\product_list_7.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_list_7.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product\\product_list_8.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_list_8.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product\\product_list_9.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_list_9.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product\\single_product.png",
+      "PackagePath": "staticwebassets\\img\\product\\single_product.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product_details\\prodect_details_1.png",
+      "PackagePath": "staticwebassets\\img\\product_details\\prodect_details_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product_details\\prodect_details_2.png",
+      "PackagePath": "staticwebassets\\img\\product_details\\prodect_details_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product_details\\prodect_details_3.png",
+      "PackagePath": "staticwebassets\\img\\product_details\\prodect_details_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\product_details\\prodect_details_4.png",
+      "PackagePath": "staticwebassets\\img\\product_details\\prodect_details_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\service\\1.png",
+      "PackagePath": "staticwebassets\\img\\service\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\service\\2.png",
+      "PackagePath": "staticwebassets\\img\\service\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\service\\3.png",
+      "PackagePath": "staticwebassets\\img\\service\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\service\\service_icon_1.png",
+      "PackagePath": "staticwebassets\\img\\service\\service_icon_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\service\\service_icon_2.png",
+      "PackagePath": "staticwebassets\\img\\service\\service_icon_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\service\\service_icon_3.png",
+      "PackagePath": "staticwebassets\\img\\service\\service_icon_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\service\\service_icon_bg_1.png",
+      "PackagePath": "staticwebassets\\img\\service\\service_icon_bg_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\team\\1.png",
+      "PackagePath": "staticwebassets\\img\\team\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\team\\2.png",
+      "PackagePath": "staticwebassets\\img\\team\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\team\\3.png",
+      "PackagePath": "staticwebassets\\img\\team\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\testmonial\\1.png",
+      "PackagePath": "staticwebassets\\img\\testmonial\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\testmonial\\Homepage_testi.png",
+      "PackagePath": "staticwebassets\\img\\testmonial\\Homepage_testi.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\tranding_item\\abc.jpg",
+      "PackagePath": "staticwebassets\\img\\tranding_item\\abc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\tranding_item\\tranding_item_1.png",
+      "PackagePath": "staticwebassets\\img\\tranding_item\\tranding_item_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\tranding_item\\tranding_item_2.png",
+      "PackagePath": "staticwebassets\\img\\tranding_item\\tranding_item_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\tranding_item\\tranding_item_3.png",
+      "PackagePath": "staticwebassets\\img\\tranding_item\\tranding_item_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\tranding_item\\tranding_item_4.png",
+      "PackagePath": "staticwebassets\\img\\tranding_item\\tranding_item_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\tranding_item\\tranding_item_5.png",
+      "PackagePath": "staticwebassets\\img\\tranding_item\\tranding_item_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\img\\tranding_item\\tranding_item_6.png",
+      "PackagePath": "staticwebassets\\img\\tranding_item\\tranding_item_6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\animated.headline.js",
+      "PackagePath": "staticwebassets\\js\\animated.headline.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\cells-by-column.js",
+      "PackagePath": "staticwebassets\\js\\cells-by-column.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\jquery-1.12.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.12.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\jquery.downCount.js",
+      "PackagePath": "staticwebassets\\js\\jquery.downCount.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\lightslider.min.js",
+      "PackagePath": "staticwebassets\\js\\lightslider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\one-page-nav-min.js",
+      "PackagePath": "staticwebassets\\js\\one-page-nav-min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\price_rangs.js",
+      "PackagePath": "staticwebassets\\js\\price_rangs.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\stellar.js",
+      "PackagePath": "staticwebassets\\js\\stellar.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\swiper.jquery.js",
+      "PackagePath": "staticwebassets\\js\\swiper.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\js\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\swiper_custom.js",
+      "PackagePath": "staticwebassets\\js\\swiper_custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_about_us.scss",
+      "PackagePath": "staticwebassets\\scss\\_about_us.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_banner.scss",
+      "PackagePath": "staticwebassets\\scss\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_best-product.scss",
+      "PackagePath": "staticwebassets\\scss\\_best-product.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_best_seller.scss",
+      "PackagePath": "staticwebassets\\scss\\_best_seller.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_blog_page.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_blog_part.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_button.scss",
+      "PackagePath": "staticwebassets\\scss\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_category.scss",
+      "PackagePath": "staticwebassets\\scss\\_category.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_client_logo.scss",
+      "PackagePath": "staticwebassets\\scss\\_client_logo.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_client_review.scss",
+      "PackagePath": "staticwebassets\\scss\\_client_review.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\scss\\_color.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_confirmation_part.scss",
+      "PackagePath": "staticwebassets\\scss\\_confirmation_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_copyright_part.scss",
+      "PackagePath": "staticwebassets\\scss\\_copyright_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_cource_details.scss",
+      "PackagePath": "staticwebassets\\scss\\_cource_details.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_cta_part.scss",
+      "PackagePath": "staticwebassets\\scss\\_cta_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_feature_part.scss",
+      "PackagePath": "staticwebassets\\scss\\_feature_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_h1-hero.scss",
+      "PackagePath": "staticwebassets\\scss\\_h1-hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_headerMenu.scss",
+      "PackagePath": "staticwebassets\\scss\\_headerMenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_instagram_photo.scss",
+      "PackagePath": "staticwebassets\\scss\\_instagram_photo.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_latest_products.scss",
+      "PackagePath": "staticwebassets\\scss\\_latest_products.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_new_arrival.scss",
+      "PackagePath": "staticwebassets\\scss\\_new_arrival.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_our_offer.scss",
+      "PackagePath": "staticwebassets\\scss\\_our_offer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_overlay.scss",
+      "PackagePath": "staticwebassets\\scss\\_overlay.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_product.scss",
+      "PackagePath": "staticwebassets\\scss\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_product_list.scss",
+      "PackagePath": "staticwebassets\\scss\\_product_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_recent.scss",
+      "PackagePath": "staticwebassets\\scss\\_recent.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_review.scss",
+      "PackagePath": "staticwebassets\\scss\\_review.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_services.scss",
+      "PackagePath": "staticwebassets\\scss\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_shipping_details.scss",
+      "PackagePath": "staticwebassets\\scss\\_shipping_details.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_single_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\_single_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_single_product.scss",
+      "PackagePath": "staticwebassets\\scss\\_single_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_special_cource.scss",
+      "PackagePath": "staticwebassets\\scss\\_special_cource.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_subscribe_part.scss",
+      "PackagePath": "staticwebassets\\scss\\_subscribe_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\scss\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_trending_items.scss",
+      "PackagePath": "staticwebassets\\scss\\_trending_items.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\Compressed\\Project\\Project\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Project.props",
+      "PackagePath": "build\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Project.props",
+      "PackagePath": "buildMultiTargeting\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Project.props",
+      "PackagePath": "buildTransitive\\Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
